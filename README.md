@@ -26,6 +26,8 @@ Default discord role: Member / Player
 Speficic role which is higher than: Member / Player Role.
 Bot Role: Bot need's to be higher than Speficic role and Player role and he needs to have 'MANAGE Roles' Permissions so he could do this commands. 
 
+Also command time works in Seconds... Thats kinda messy up but il fix it soon.
+
 Package: 
 
 npm install ms 
